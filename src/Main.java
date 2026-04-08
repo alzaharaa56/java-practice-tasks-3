@@ -49,12 +49,23 @@ public class Main {
         //System.out.print("Result for val 2: ");
         //printArray(r22);
 
-        System.out.println("Task 23: zeroMax");
-        int[] a23 = {0, 5, 0, 3};
-        zeroMax test = null;
-        int[] r23 = test.zeroMax(a23);
-       System.out.print("Result: ");
-       printArray(r23);
+        //System.out.println("Task 23: zeroMax");
+       // int[] a23 = {0, 5, 0, 3};
+        //zeroMax test = null;
+       // int[] r23 = test.zeroMax(a23);
+      // System.out.print("Result: ");
+       //printArray(r23);
+
+        //System.out.println("Task 24: centeredAverage ");
+       // int[] a24 = {1, 2, 3, 4, 100};
+       // centeredAverage test = null;
+        //System.out.println("Average of {1, 2, 3, 4, 100}: " + test.centeredAverage(a24));
+
+        System.out.println(" Task 25: has22 ");
+         int[] a25 = {1, 2, 2, 3};
+         System.out.print("Array {1, 2, 2, 3}: ");
+          has22 test = null;
+        if (test.has22(a25)) { System.out.println("True"); } else { System.out.println("False"); }
 
 
 

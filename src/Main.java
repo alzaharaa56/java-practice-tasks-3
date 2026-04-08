@@ -9,11 +9,17 @@ public class Main {
  // only14 test = null;
   //if (test.only14(a16)) { System.out.println("True"); } else { System.out.println("False"); }
 
-     System.out.println(" Task 17: isEverywhere ");
-     int[] a17 = {1, 2, 1, 3};
-     System.out.print("Array {1, 2, 1, 3}, val 1: ");
-     isEverywhere test = null;
-     if (test.isEverywhere(a17, 1)) { System.out.println("True"); } else { System.out.println("False"); }
+    // System.out.println(" Task 17: isEverywhere ");
+    // int[] a17 = {1, 2, 1, 3};
+   //  System.out.print("Array {1, 2, 1, 3}, val 1: ");
+     //isEverywhere test = null;
+    // if (test.isEverywhere(a17, 1)) { System.out.println("True"); } else { System.out.println("False"); }
+
+     System.out.println("Task 18: has77 ");
+    int[] task18 = {1, 7, 1, 7};
+     System.out.print("Array {1, 7, 1, 7}: ");
+     has77 test = null;
+     if (test.has77(task18)) { System.out.println("True"); } else { System.out.println("False"); }
 
 
 

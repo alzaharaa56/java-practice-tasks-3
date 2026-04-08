@@ -15,11 +15,23 @@ public class Main {
      //isEverywhere test = null;
     // if (test.isEverywhere(a17, 1)) { System.out.println("True"); } else { System.out.println("False"); }
 
-     System.out.println("Task 18: has77 ");
-    int[] task18 = {1, 7, 1, 7};
-     System.out.print("Array {1, 7, 1, 7}: ");
-     has77 test = null;
-     if (test.has77(task18)) { System.out.println("True"); } else { System.out.println("False"); }
+     //System.out.println("Task 18: has77 ");
+    //int[] task18 = {1, 7, 1, 7};
+    // System.out.print("Array {1, 7, 1, 7}: ");
+    // has77 test = null;
+     //if (test.has77(task18)) { System.out.println("True"); } else { System.out.println("False"); }
+
+     //System.out.println("Task 19: haveThree ");
+    //int[] a19 = {3, 1, 3, 1, 3};
+    // System.out.print("Array {3, 1, 3, 1, 3}: ");
+    // haveThree test = null;
+    // if (test.haveThree(a19)) { System.out.println("True"); } else { System.out.println("False"); }
+
+     System.out.println("Task 20: tripleUp ");
+int[] a20 = {10, 11, 12, 5};
+System.out.print("Array {10, 11, 12, 5}: ");
+     tripleUp test = null;
+     if (test.tripleUp(a20)) { System.out.println("True"); } else { System.out.println("False"); }
 
 
 

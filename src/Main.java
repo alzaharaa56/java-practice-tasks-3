@@ -67,11 +67,20 @@ public class Main {
          // has22 test = null;
        // if (test.has22(a25)) { System.out.println("True"); } else { System.out.println("False"); }
 
-        System.out.println(" Task 26: more14 ");
-        int[] a26 = {1, 4, 1};
-        System.out.print("Array {1, 4, 1}: ");
-        more14 test = null;
-        if (test.more14(a26)) { System.out.println("True"); } else { System.out.println("False"); }
+       // System.out.println(" Task 26: more14 ");
+        //int[] a26 = {1, 4, 1};
+       // System.out.print("Array {1, 4, 1}: ");
+       // more14 test = null;
+       // if (test.more14(a26)) { System.out.println("True"); } else { System.out.println("False"); }
+
+        System.out.println("Task 27: fizzArray2 ");
+        fizzArray2 test = null;
+        String[] r27 = test.fizzArray2(4);
+       System.out.print("Result for n=4: [");
+        for (int i = 0; i < r27.length; i++) {
+        System.out.print(" " + r27[i] + "  ");
+         if (i < r27.length - 1) System.out.print(", ");
+}
 
 
 

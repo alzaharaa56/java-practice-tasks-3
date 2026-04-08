@@ -1,7 +1,9 @@
+
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
- public static void main (String[] args){
+    public static void main(String[] args){
 
  // System.out.println(" Task 16: only14 ");
 //int[] a16 = {1, 4, 1, 4};
@@ -27,20 +29,46 @@ public class Main {
     // haveThree test = null;
     // if (test.haveThree(a19)) { System.out.println("True"); } else { System.out.println("False"); }
 
-     System.out.println("Task 20: tripleUp ");
-int[] a20 = {10, 11, 12, 5};
-System.out.print("Array {10, 11, 12, 5}: ");
-     tripleUp test = null;
-     if (test.tripleUp(a20)) { System.out.println("True"); } else { System.out.println("False"); }
+    // System.out.println("Task 20: tripleUp ");
+    // int[] a20 = {10, 11, 12, 5};
+    // System.out.print("Array {10, 11, 12, 5}: ");
+    // tripleUp test = null;
+    // if (test.tripleUp(a20)) { System.out.println("True"); } printArrayelse { System.out.println("False"); }
+
+        tenRun test = new tenRun();
+       int[] nums = {2, 10, 3, 4, 20, 5};
+      System.out.println(" Task 21: tenRun ");
+      System.out.print("Original: [2, 10, 3, 4, 20, 5] -> Result: ");
+      int[] result = test.tenRun(nums);
+     printArray(result);
 
 
-
-
-
-
-
-
-
-
- }
 }
+
+
+
+
+
+
+
+public static void printArray(int[] arr) {
+System.out.print("[");
+for (int i = 0; i < arr.length; i++) {
+System.out.print(arr[i]);
+if (i < arr.length - 1) {
+System.out.print(", ");
+}
+}
+System.out.println("]");
+}
+}
+
+
+
+
+
+
+
+
+
+

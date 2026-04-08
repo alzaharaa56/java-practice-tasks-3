@@ -42,12 +42,19 @@ public class Main {
       //int[] result = test.tenRun(nums);
      //printArray(result);
 
-        System.out.println(" Task 22: notAlone ");
-        int[] a22 = {1, 2, 3, 2, 5, 2};
-        notAlone test = null;
-        int[] r22 = test.notAlone(a22, 2);
-        System.out.print("Result for val 2: ");
-        printArray(r22);
+      //  System.out.println(" Task 22: notAlone ");
+        //int[] a22 = {1, 2, 3, 2, 5, 2};
+        //notAlone test = null;
+        //int[] r22 = test.notAlone(a22, 2);
+        //System.out.print("Result for val 2: ");
+        //printArray(r22);
+
+        System.out.println("Task 23: zeroMax");
+        int[] a23 = {0, 5, 0, 3};
+        zeroMax test = null;
+        int[] r23 = test.zeroMax(a23);
+       System.out.print("Result: ");
+       printArray(r23);
 
 
 

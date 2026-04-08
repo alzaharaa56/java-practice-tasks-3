@@ -61,13 +61,17 @@ public class Main {
        // centeredAverage test = null;
         //System.out.println("Average of {1, 2, 3, 4, 100}: " + test.centeredAverage(a24));
 
-        System.out.println(" Task 25: has22 ");
-         int[] a25 = {1, 2, 2, 3};
-         System.out.print("Array {1, 2, 2, 3}: ");
-          has22 test = null;
-        if (test.has22(a25)) { System.out.println("True"); } else { System.out.println("False"); }
+       // System.out.println(" Task 25: has22 ");
+        // int[] a25 = {1, 2, 2, 3};
+        // System.out.print("Array {1, 2, 2, 3}: ");
+         // has22 test = null;
+       // if (test.has22(a25)) { System.out.println("True"); } else { System.out.println("False"); }
 
-
+        System.out.println(" Task 26: more14 ");
+        int[] a26 = {1, 4, 1};
+        System.out.print("Array {1, 4, 1}: ");
+        more14 test = null;
+        if (test.more14(a26)) { System.out.println("True"); } else { System.out.println("False"); }
 
 
 

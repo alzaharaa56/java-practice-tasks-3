@@ -35,12 +35,24 @@ public class Main {
     // tripleUp test = null;
     // if (test.tripleUp(a20)) { System.out.println("True"); } printArrayelse { System.out.println("False"); }
 
-        tenRun test = new tenRun();
-       int[] nums = {2, 10, 3, 4, 20, 5};
-      System.out.println(" Task 21: tenRun ");
-      System.out.print("Original: [2, 10, 3, 4, 20, 5] -> Result: ");
-      int[] result = test.tenRun(nums);
-     printArray(result);
+      //  tenRun test = new tenRun();
+       //int[] nums = {2, 10, 3, 4, 20, 5};
+      //System.out.println(" Task 21: tenRun ");
+      //System.out.print("Original: [2, 10, 3, 4, 20, 5] -> Result: ");
+      //int[] result = test.tenRun(nums);
+     //printArray(result);
+
+        System.out.println(" Task 22: notAlone ");
+        int[] a22 = {1, 2, 3, 2, 5, 2};
+        notAlone test = null;
+        int[] r22 = test.notAlone(a22, 2);
+        System.out.print("Result for val 2: ");
+        printArray(r22);
+
+
+
+
+
 
 
 }

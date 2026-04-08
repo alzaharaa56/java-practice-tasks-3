@@ -3,46 +3,46 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
- // System.out.println(" Task 16: only14 ");
+        // System.out.println(" Task 16: only14 ");
 //int[] a16 = {1, 4, 1, 4};
 //System.out.print("Array {1, 4, 1, 4}: ");
- // only14 test = null;
-  //if (test.only14(a16)) { System.out.println("True"); } else { System.out.println("False"); }
+        // only14 test = null;
+        //if (test.only14(a16)) { System.out.println("True"); } else { System.out.println("False"); }
 
-    // System.out.println(" Task 17: isEverywhere ");
-    // int[] a17 = {1, 2, 1, 3};
-   //  System.out.print("Array {1, 2, 1, 3}, val 1: ");
-     //isEverywhere test = null;
-    // if (test.isEverywhere(a17, 1)) { System.out.println("True"); } else { System.out.println("False"); }
+        // System.out.println(" Task 17: isEverywhere ");
+        // int[] a17 = {1, 2, 1, 3};
+        //  System.out.print("Array {1, 2, 1, 3}, val 1: ");
+        //isEverywhere test = null;
+        // if (test.isEverywhere(a17, 1)) { System.out.println("True"); } else { System.out.println("False"); }
 
-     //System.out.println("Task 18: has77 ");
-    //int[] task18 = {1, 7, 1, 7};
-    // System.out.print("Array {1, 7, 1, 7}: ");
-    // has77 test = null;
-     //if (test.has77(task18)) { System.out.println("True"); } else { System.out.println("False"); }
+        //System.out.println("Task 18: has77 ");
+        //int[] task18 = {1, 7, 1, 7};
+        // System.out.print("Array {1, 7, 1, 7}: ");
+        // has77 test = null;
+        //if (test.has77(task18)) { System.out.println("True"); } else { System.out.println("False"); }
 
-     //System.out.println("Task 19: haveThree ");
-    //int[] a19 = {3, 1, 3, 1, 3};
-    // System.out.print("Array {3, 1, 3, 1, 3}: ");
-    // haveThree test = null;
-    // if (test.haveThree(a19)) { System.out.println("True"); } else { System.out.println("False"); }
+        //System.out.println("Task 19: haveThree ");
+        //int[] a19 = {3, 1, 3, 1, 3};
+        // System.out.print("Array {3, 1, 3, 1, 3}: ");
+        // haveThree test = null;
+        // if (test.haveThree(a19)) { System.out.println("True"); } else { System.out.println("False"); }
 
-    // System.out.println("Task 20: tripleUp ");
-    // int[] a20 = {10, 11, 12, 5};
-    // System.out.print("Array {10, 11, 12, 5}: ");
-    // tripleUp test = null;
-    // if (test.tripleUp(a20)) { System.out.println("True"); } printArrayelse { System.out.println("False"); }
+        // System.out.println("Task 20: tripleUp ");
+        // int[] a20 = {10, 11, 12, 5};
+        // System.out.print("Array {10, 11, 12, 5}: ");
+        // tripleUp test = null;
+        // if (test.tripleUp(a20)) { System.out.println("True"); } printArrayelse { System.out.println("False"); }
 
-      //  tenRun test = new tenRun();
-       //int[] nums = {2, 10, 3, 4, 20, 5};
-      //System.out.println(" Task 21: tenRun ");
-      //System.out.print("Original: [2, 10, 3, 4, 20, 5] -> Result: ");
-      //int[] result = test.tenRun(nums);
-     //printArray(result);
+        //  tenRun test = new tenRun();
+        //int[] nums = {2, 10, 3, 4, 20, 5};
+        //System.out.println(" Task 21: tenRun ");
+        //System.out.print("Original: [2, 10, 3, 4, 20, 5] -> Result: ");
+        //int[] result = test.tenRun(nums);
+        //printArray(result);
 
-      //  System.out.println(" Task 22: notAlone ");
+        //  System.out.println(" Task 22: notAlone ");
         //int[] a22 = {1, 2, 3, 2, 5, 2};
         //notAlone test = null;
         //int[] r22 = test.notAlone(a22, 2);
@@ -50,61 +50,62 @@ public class Main {
         //printArray(r22);
 
         //System.out.println("Task 23: zeroMax");
-       // int[] a23 = {0, 5, 0, 3};
+        // int[] a23 = {0, 5, 0, 3};
         //zeroMax test = null;
-       // int[] r23 = test.zeroMax(a23);
-      // System.out.print("Result: ");
-       //printArray(r23);
+        // int[] r23 = test.zeroMax(a23);
+        // System.out.print("Result: ");
+        //printArray(r23);
 
         //System.out.println("Task 24: centeredAverage ");
-       // int[] a24 = {1, 2, 3, 4, 100};
-       // centeredAverage test = null;
+        // int[] a24 = {1, 2, 3, 4, 100};
+        // centeredAverage test = null;
         //System.out.println("Average of {1, 2, 3, 4, 100}: " + test.centeredAverage(a24));
 
-       // System.out.println(" Task 25: has22 ");
+        // System.out.println(" Task 25: has22 ");
         // int[] a25 = {1, 2, 2, 3};
         // System.out.print("Array {1, 2, 2, 3}: ");
-         // has22 test = null;
-       // if (test.has22(a25)) { System.out.println("True"); } else { System.out.println("False"); }
+        // has22 test = null;
+        // if (test.has22(a25)) { System.out.println("True"); } else { System.out.println("False"); }
 
-       // System.out.println(" Task 26: more14 ");
+        // System.out.println(" Task 26: more14 ");
         //int[] a26 = {1, 4, 1};
-       // System.out.print("Array {1, 4, 1}: ");
-       // more14 test = null;
-       // if (test.more14(a26)) { System.out.println("True"); } else { System.out.println("False"); }
+        // System.out.print("Array {1, 4, 1}: ");
+        // more14 test = null;
+        // if (test.more14(a26)) { System.out.println("True"); } else { System.out.println("False"); }
 
-        System.out.println("Task 27: fizzArray2 ");
-        fizzArray2 test = null;
-        String[] r27 = test.fizzArray2(4);
-       System.out.print("Result for n=4: [");
-        for (int i = 0; i < r27.length; i++) {
-        System.out.print(" " + r27[i] + "  ");
-         if (i < r27.length - 1) System.out.print(", ");
+        // System.out.println("Task 27: fizzArray2 ");
+        // fizzArray2 test = null;
+        //String[] r27 = test.fizzArray2(4);
+        // System.out.print("Result for n=4: [");
+        // for (int i = 0; i < r27.length; i++) {
+        //System.out.print(" " + r27[i] + "  ");
+        // if (i < r27.length - 1) System.out.print(", ");
+//}
+
+        System.out.println("Task 28: either24 ");
+        int[] a28 = {1, 2, 2, 4, 4};
+        System.out.print("Array {1, 2, 2, 4, 4}: ");
+        either24 test = null;
+        if (test.either24(a28)) {
+            System.out.println("True");
+        } else {
+            System.out.println("False");
+        }
+    }
+
+
+    public static void printArray(int[] arr) {
+        System.out.print("[");
+        for (int i = 0; i < arr.length; i++) {
+            System.out.print(arr[i]);
+            if (i < arr.length - 1) {
+                System.out.print(", ");
+            }
+        }
+        System.out.println("]");
+    }
 }
 
-
-
-
-
-}
-
-
-
-
-
-
-
-public static void printArray(int[] arr) {
-System.out.print("[");
-for (int i = 0; i < arr.length; i++) {
-System.out.print(arr[i]);
-if (i < arr.length - 1) {
-System.out.print(", ");
-}
-}
-System.out.println("]");
-}
-}
 
 
 
